@@ -1,5 +1,6 @@
 # 👋 Hey! Welcome to my Github profile.
-## My name is Ignez and I'm Brazilian currently living in Portugal :)!
+## My name is Ignez!
+## I'm Brazilian currently living in Portugal :)!
 
 - 👩‍💻 I’m currently working on Web Development and mobile as well 
 - 🧸 I’m currently learning to be a mobile developmer in the university
