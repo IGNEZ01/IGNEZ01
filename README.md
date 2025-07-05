@@ -12,13 +12,3 @@ I'm currently transitioning from Web & Mobile Development to Data Analysis, buil
 - 🎎 Fun fact: I'm a HUGE fan of Asian culture!
 
 ---
-
-### 📁 My Data Projects (2025)
-
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [Sales Dashboard](#) | Power BI dashboard with KPIs and insights | Power BI |
-| [SQL + BI Analysis](#) | Dataset modeled with SQL + DAX | SQL, Power BI |
-| [Themed Story Project](#) | Personal passion analysis (music, books...) | Excel / Power BI |
-
-> Full portfolio with links, screenshots, and more coming soon on Notion!
